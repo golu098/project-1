@@ -1,3 +1,7 @@
+
+*{
+    font-size: 12rem;
+}
 .navbar-main {
     display: flex;
     justify-content: center;
@@ -8,6 +12,7 @@
     display: none;
     cursor: pointer;
 }
+
 
 .toggle-button i {
     font-size: 24px;
